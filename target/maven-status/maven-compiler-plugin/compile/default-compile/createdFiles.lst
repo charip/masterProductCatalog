@@ -1,0 +1,5 @@
+com\catalog\Product.class
+com\catalog\NewCatalog.class
+com\catalog\Supplier.class
+com\catalog\Catalog.class
+com\catalog\MergeProductCatalogApplication.class

@@ -1,0 +1,19 @@
+
+v	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(±‹üÍıÿÿÿÿH­RMAJORZ
+CODE_SMELL
+Œ
+java:S41447"[Update this method so that its implementation is not identical to "getLocation" on line 32.(êççñøÿÿÿÿH®RMAJORZ
+CODE_SMELL
+
+java:S1130N"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(±‹üÍıÿÿÿÿH°RMINORZ
+CODE_SMELL
+l	java:S125O"<This block of commented-out lines of code should be removed.(ş¯‚ıÿÿÿÿH²RMAJORZ
+CODE_SMELL
+g	java:S125X"<This block of commented-out lines of code should be removed.(€Ğû«H³RMAJORZ
+CODE_SMELL
+g	java:S125]"<This block of commented-out lines of code should be removed.(¨¢ªĞHµRMAJORZ
+CODE_SMELL
+g	java:S125d"<This block of commented-out lines of code should be removed.(À„î¸H¶RMAJORZ
+CODE_SMELL
+g	java:S125f"<This block of commented-out lines of code should be removed.(Öú÷ØH·RMAJORZ
+CODE_SMELL

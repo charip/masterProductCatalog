@@ -1,0 +1,18 @@
+
+g	java:S125"<This block of commented-out lines of code should be removed.(“µ¬’H¸RMAJORZ
+CODE_SMELL
+v
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ËÃ§ÏH¿RMINORZ
+CODE_SMELL
+V
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙHÁRMINORZ
+CODE_SMELL
+a
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›HÃRMINORZ
+CODE_SMELL
+V
+java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµHÅRMINORZ
+CODE_SMELL
+\
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿHÇRMINORZ
+CODE_SMELL
