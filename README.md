@@ -7,4 +7,4 @@ To run it from cmd: Go to folder location
 
 mvn spring-boot:run
 
-The output file 'newCatalogOutput.csv' is generated in the target folder : MasterProductCatalog\target\classes\output 
+The output file 'newCatalogOutput.csv' is generated in the target folder : masterProductCatalog\target\classes\output 
